@@ -4,33 +4,6 @@
   
   
   <entry>
-    <title>筆記本電腦接入Thunderbolt eGPU淺度體驗</title>
-    <link href="/ex-graphic-card/"/>
-    <url>/ex-graphic-card/</url>
-    
-    <content type="html"><![CDATA[<p>換了Blog框架之後我就想寫一篇水文了，那就弄一篇壕文好了。</p><p>在2019年考入大學之後，我當時就夢想著這樣的情景：在宿舍接上顯卡塢揮發接近臺式機的性能，要出去上課的時候只要把綫纜拔掉就可以出門了。性能需求與便携的需求都可以滿足。但還是並不如意，我只想説我并不推薦這種玩法。</p><h2 id="裝備清單"><a href="#裝備清單" class="headerlink" title="裝備清單"></a>裝備清單</h2><p>以下是我在2019年買的電子產品拿來跑TB3。</p><h3 id="xps-15-2019版"><a href="#xps-15-2019版" class="headerlink" title="xps 15 2019版"></a>xps 15 2019版</h3><p>這一臺筆電配置了一個滿速雷劈3端口，可以接TB3設備。</p><h3 id="Razor-Core-幻彩版"><a href="#Razor-Core-幻彩版" class="headerlink" title="Razor Core 幻彩版"></a>Razor Core 幻彩版</h3><p>這個顯卡塢可以插上任何長度滿槽顯卡，而且配備了4個USB 3.1 Gen1與一個以太網接口（雖然用不到），内置電源完全足夠性能釋放。</p><h3 id="4k顯示屏"><a href="#4k顯示屏" class="headerlink" title="4k顯示屏"></a>4k顯示屏</h3><p>外接顯示屏看著爽，而且這不會有内屏降低性能的問題。</p><h3 id="鼠標與鍵盤"><a href="#鼠標與鍵盤" class="headerlink" title="鼠標與鍵盤"></a>鼠標與鍵盤</h3><p>這是必備的外接設備，插在顯卡塢上。</p><h3 id="RTX-2080ti-顯示卡"><a href="#RTX-2080ti-顯示卡" class="headerlink" title="RTX 2080ti 顯示卡"></a>RTX 2080ti 顯示卡</h3><p>最重要的配件了。</p><h2 id="體驗"><a href="#體驗" class="headerlink" title="體驗"></a>體驗</h2><p>先描述一下配置</p><ul><li>CPU：i9-9980hk</li><li>RAM：64GB DDR4@2666 SODIMM</li><li>GPU：ASUS ROG STRIX 2080ti OC<br>跑分并不怎樣，FSE跑了10761， time spy跑了7345，這當做一個參考吧。而且這個雷劈三的帶寬除了顯卡還有其他硬件占用著這個通道導致帶寬沒法完全用在顯卡上。</li></ul><p>由於我比較宅，經常宅在宿舍，有了這個大顯示屏去圖書館幹嘛，在宿舍生產力就已經高的恐怖了。（這好像跟顯卡沒有什麽關係）</p><p>在游戲上的體驗肯定會比筆電上的GTX1650好很多，尤其是在跑大型游戲中，比如FS2020。</p><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><h3 id="死機問題（已經解決）"><a href="#死機問題（已經解決）" class="headerlink" title="死機問題（已經解決）"></a>死機問題（已經解決）</h3><p>這個問題困擾了我一整個2019年下半年，直到今年回學校才解決。死機是怎樣的呢：在低負載的情況下，做日常工作或者打開網頁看視頻的時候忽然閒熒幕凍結，鼠標動不了，按鍵盤沒有任何反應，只能强制重啓才能解決，周而復始。我嘗試了許許多多方法，禁用板載顯卡，使用ddu重新安裝顯卡驅動，核芯顯卡驅動換成intel官方驅動等等。在今年，安裝了官方核心顯卡驅動（不是Dell的魔改驅動）與未插上顯卡的情況下安裝RTX2080ti的驅動成功的解決了這個問題。</p><h3 id="畫面循環卡頓問題"><a href="#畫面循環卡頓問題" class="headerlink" title="畫面循環卡頓問題"></a>畫面循環卡頓問題</h3><p>這個問題也很魔性，畫面循環性間歇卡頓，很迷。</p><h2 id="建議上TB3嗎"><a href="#建議上TB3嗎" class="headerlink" title="建議上TB3嗎"></a>建議上TB3嗎</h2><p>能不上TB3就不上TB3。我這一整套設備下來完全足夠買一個超級本外加一臺與Razer core差不多大小的itx主機，性能又能得到完整的釋放，便携性也得到了保證，豈不美哉？</p><h2 id="2021更新"><a href="#2021更新" class="headerlink" title="2021更新"></a>2021更新</h2><p>TB4在去年發佈了，PCIe通道直接走CPU不走PCH了，好像性能好了很多，但TB到現在還是玄學，感覺還是臺式機靠譜。</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>技術貼</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>eGPU</tag>
-      
-      <tag>Thunderbolt</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>2020年終總結</title>
     <link href="/end-of-2020/"/>
     <url>/end-of-2020/</url>
@@ -50,6 +23,33 @@
       <tag>2020年</tag>
       
       <tag>總結</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>筆記本電腦接入Thunderbolt eGPU淺度體驗</title>
+    <link href="/ex-graphic-card/"/>
+    <url>/ex-graphic-card/</url>
+    
+    <content type="html"><![CDATA[<p>換了Blog框架之後我就想寫一篇水文了，那就弄一篇壕文好了。</p><p>在2019年考入大學之後，我當時就夢想著這樣的情景：在宿舍接上顯卡塢揮發接近臺式機的性能，要出去上課的時候只要把綫纜拔掉就可以出門了。性能需求與便携的需求都可以滿足。但還是並不如意，我只想説我并不推薦這種玩法。</p><h2 id="裝備清單"><a href="#裝備清單" class="headerlink" title="裝備清單"></a>裝備清單</h2><p>以下是我在2019年買的電子產品拿來跑TB3。</p><h3 id="xps-15-2019版"><a href="#xps-15-2019版" class="headerlink" title="xps 15 2019版"></a>xps 15 2019版</h3><p>這一臺筆電配置了一個滿速雷劈3端口，可以接TB3設備。</p><h3 id="Razor-Core-幻彩版"><a href="#Razor-Core-幻彩版" class="headerlink" title="Razor Core 幻彩版"></a>Razor Core 幻彩版</h3><p>這個顯卡塢可以插上任何長度滿槽顯卡，而且配備了4個USB 3.1 Gen1與一個以太網接口（雖然用不到），内置電源完全足夠性能釋放。</p><h3 id="4k顯示屏"><a href="#4k顯示屏" class="headerlink" title="4k顯示屏"></a>4k顯示屏</h3><p>外接顯示屏看著爽，而且這不會有内屏降低性能的問題。</p><h3 id="鼠標與鍵盤"><a href="#鼠標與鍵盤" class="headerlink" title="鼠標與鍵盤"></a>鼠標與鍵盤</h3><p>這是必備的外接設備，插在顯卡塢上。</p><h3 id="RTX-2080ti-顯示卡"><a href="#RTX-2080ti-顯示卡" class="headerlink" title="RTX 2080ti 顯示卡"></a>RTX 2080ti 顯示卡</h3><p>最重要的配件了。</p><h2 id="體驗"><a href="#體驗" class="headerlink" title="體驗"></a>體驗</h2><p>先描述一下配置</p><ul><li>CPU：i9-9980hk</li><li>RAM：64GB DDR4@2666 SODIMM</li><li>GPU：ASUS ROG STRIX 2080ti OC<br>跑分并不怎樣，FSE跑了10761， time spy跑了7345，這當做一個參考吧。而且這個雷劈三的帶寬除了顯卡還有其他硬件占用著這個通道導致帶寬沒法完全用在顯卡上。</li></ul><p>由於我比較宅，經常宅在宿舍，有了這個大顯示屏去圖書館幹嘛，在宿舍生產力就已經高的恐怖了。（這好像跟顯卡沒有什麽關係）</p><p>在游戲上的體驗肯定會比筆電上的GTX1650好很多，尤其是在跑大型游戲中，比如FS2020。</p><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><h3 id="死機問題（已經解決）"><a href="#死機問題（已經解決）" class="headerlink" title="死機問題（已經解決）"></a>死機問題（已經解決）</h3><p>這個問題困擾了我一整個2019年下半年，直到今年回學校才解決。死機是怎樣的呢：在低負載的情況下，做日常工作或者打開網頁看視頻的時候忽然閒熒幕凍結，鼠標動不了，按鍵盤沒有任何反應，只能强制重啓才能解決，周而復始。我嘗試了許許多多方法，禁用板載顯卡，使用ddu重新安裝顯卡驅動，核芯顯卡驅動換成intel官方驅動等等。在今年，安裝了官方核心顯卡驅動（不是Dell的魔改驅動）與未插上顯卡的情況下安裝RTX2080ti的驅動成功的解決了這個問題。</p><h3 id="畫面循環卡頓問題"><a href="#畫面循環卡頓問題" class="headerlink" title="畫面循環卡頓問題"></a>畫面循環卡頓問題</h3><p>這個問題也很魔性，畫面循環性間歇卡頓，很迷。</p><h2 id="建議上TB3嗎"><a href="#建議上TB3嗎" class="headerlink" title="建議上TB3嗎"></a>建議上TB3嗎</h2><p>能不上TB3就不上TB3。我這一整套設備下來完全足夠買一個超級本外加一臺與Razer core差不多大小的itx主機，性能又能得到完整的釋放，便携性也得到了保證，豈不美哉？</p><h2 id="2021更新"><a href="#2021更新" class="headerlink" title="2021更新"></a>2021更新</h2><p>TB4在去年發佈了，PCIe通道直接走CPU不走PCH了，好像性能好了很多，但TB到現在還是玄學，感覺還是臺式機靠譜。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技術貼</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>eGPU</tag>
+      
+      <tag>Thunderbolt</tag>
       
     </tags>
     
