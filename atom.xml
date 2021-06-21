@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rin&#39;s Blog</title>
+  <icon>https://blog.rin.moe/icon.png</icon>
+  <subtitle>這是菜市場</subtitle>
+  <link href="https://blog.rin.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.rin.moe/"/>
+  <updated>2021-06-20T17:44:29.602Z</updated>
+  <id>https://blog.rin.moe/</id>
+  
+  <author>
+    <name>Rin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年終總結</title>
+    <link href="https://blog.rin.moe/end-of-2020/"/>
+    <id>https://blog.rin.moe/end-of-2020/</id>
+    <published>2020-12-26T17:22:51.000Z</published>
+    <updated>2021-06-20T17:44:29.602Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今年算是最壞的一年了，回想起疫病爆發之初到現在，時間過得還挺快的。上學期上的網課跟沒上一樣，渾渾噩噩過了整個上半年。暑假游歷中國西南與長三角，算是今年沒得出國的一點補償吧。水了一整個暑假后就開學，水課特別多，就覺得自己究竟在學啥玩意，我就經常跟別人開退學的玩笑。&lt;/p&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="吹水日常" scheme="https://blog.rin.moe/categories/%E5%90%B9%E6%B0%B4%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="2020年" scheme="https://blog.rin.moe/tags/2020%E5%B9%B4/"/>
+    
+    <category term="總結" scheme="https://blog.rin.moe/tags/%E7%B8%BD%E7%B5%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>筆記本電腦接入Thunderbolt eGPU淺度體驗</title>
+    <link href="https://blog.rin.moe/ex-graphic-card/"/>
+    <id>https://blog.rin.moe/ex-graphic-card/</id>
+    <published>2020-08-28T08:00:50.000Z</published>
+    <updated>2021-06-21T06:38:46.627Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;換了Blog框架之後我就想寫一篇水文了，那就弄一篇壕文好了。&lt;/p&gt;
+&lt;p&gt;在2019年考入大學之後，我當時就夢想著這樣的情景：在宿舍接上顯卡塢揮發接近臺式機的性能，要出去上課的時候只要把綫纜拔掉就可以出門了。性能需求與便携的需求都可以滿足。但還是並不如意，我只想説我并不推</summary>
+        
+      
+    
+    
+    
+    <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
+    
+    
+    <category term="eGPU" scheme="https://blog.rin.moe/tags/eGPU/"/>
+    
+    <category term="Thunderbolt" scheme="https://blog.rin.moe/tags/Thunderbolt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>智能家居初體驗</title>
+    <link href="https://blog.rin.moe/smart-home/"/>
+    <id>https://blog.rin.moe/smart-home/</id>
+    <published>2020-08-03T17:09:38.000Z</published>
+    <updated>2021-06-20T17:46:28.692Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;趁著家裡臥室大改，我就想到了安裝智能家居了。&lt;/p&gt;
+&lt;p&gt;智能家居在中國主要以米家為主，但我還想讓其支持homekit，實現雙平台操作，畢竟我家沒有小米手機，都以iOS為主。小愛同學音箱就算了，要就搞一套，不搞兩套。&lt;/p&gt;
+&lt;h1 id=&quot;購買設備&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
+    
+    
+    <category term="智能家居" scheme="https://blog.rin.moe/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爲啥我不喜歡寫遊記</title>
+    <link href="https://blog.rin.moe/travel/"/>
+    <id>https://blog.rin.moe/travel/</id>
+    <published>2020-06-13T06:51:29.000Z</published>
+    <updated>2021-06-20T17:15:40.317Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;此文章就當作水文了（不是&lt;/p&gt;
+&lt;p&gt;寫遊記寫成之後給別人一個感覺就是攻略。但攻略或者指引在網上找就一大堆，所以自己寫的參考價值並不大。而且每個人的情況不盡相同，大多會東取西取，組合成自己最適合的方案。&lt;/p&gt;
+&lt;p&gt;我出去旅遊是沒有計劃的旅遊，出國旅行就只有2點要準備，</summary>
+        
+      
+    
+    
+    
+    <category term="吹水日常" scheme="https://blog.rin.moe/categories/%E5%90%B9%E6%B0%B4%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="旅遊" scheme="https://blog.rin.moe/tags/%E6%97%85%E9%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在安裝Arch Linux時上rEFInd引導</title>
+    <link href="https://blog.rin.moe/refind-arch/"/>
+    <id>https://blog.rin.moe/refind-arch/</id>
+    <published>2020-04-24T16:54:44.000Z</published>
+    <updated>2021-06-21T06:37:31.859Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;grub太難看了，rEFInd才好看,我這萌新寫的這些算是我的筆記了。&lt;br&gt;在這裏我用的是Arch Linux安裝脚本安裝系統，省了一堆麻煩，但我沒有用脚本安裝啓動引導，改爲手動安裝。&lt;/p&gt;
+&lt;h2 id=&quot;分區問題&quot;&gt;&lt;a href=&quot;#分區問題&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
+    
+    
+    <category term="Refind" scheme="https://blog.rin.moe/tags/Refind/"/>
+    
+    <category term="Arch Linux" scheme="https://blog.rin.moe/tags/Arch-Linux/"/>
+    
+    <category term="Bootloader" scheme="https://blog.rin.moe/tags/Bootloader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在DEBIAN10利用Mcsmanager面板配置Minecraft Sponge Forge服務端</title>
+    <link href="https://blog.rin.moe/sponge/"/>
+    <id>https://blog.rin.moe/sponge/</id>
+    <published>2020-02-02T06:02:39.000Z</published>
+    <updated>2021-06-21T06:36:08.624Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;直接單刀直入，第一篇乾貨。在這裡我直接用&lt;strong&gt;root&lt;/strong&gt;用戶，您們巨佬自行酌情加sudo&lt;/p&gt;
+&lt;p&gt;我這是在&lt;strong&gt;公網環境&lt;/strong&gt;下直接搭建，沒有設置防火牆，就不介紹防火牆內網穿透的一系列操作了，其實是我不會（霧&lt;/p&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
+    
+    
+    <category term="Debian" scheme="https://blog.rin.moe/tags/Debian/"/>
+    
+    <category term="Mcsmanager" scheme="https://blog.rin.moe/tags/Mcsmanager/"/>
+    
+    <category term="Minecraft" scheme="https://blog.rin.moe/tags/Minecraft/"/>
+    
+    <category term="Sponge" scheme="https://blog.rin.moe/tags/Sponge/"/>
+    
+    <category term="Forge" scheme="https://blog.rin.moe/tags/Forge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="https://blog.rin.moe/first-article/"/>
+    <id>https://blog.rin.moe/first-article/</id>
+    <published>2019-11-11T13:52:33.000Z</published>
+    <updated>2021-06-20T16:26:00.827Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;悶聲發大財，這是最吼的。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="吹水日常" scheme="https://blog.rin.moe/categories/%E5%90%B9%E6%B0%B4%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="第一篇" scheme="https://blog.rin.moe/tags/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    
+  </entry>
+  
+</feed>
