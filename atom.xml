@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rin&#39;s Blog</title>
-  <icon>https://blog.rin.moe/icon.png</icon>
+  <icon>https://blog.rin.moe/img/favicon.png</icon>
   <subtitle>這是菜市場</subtitle>
   <link href="https://blog.rin.moe/atom.xml" rel="self"/>
   
