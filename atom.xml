@@ -6,7 +6,7 @@
   <link href="https://blog.rin.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.rin.moe/"/>
-  <updated>2021-06-20T17:44:29.602Z</updated>
+  <updated>2021-06-22T08:49:46.912Z</updated>
   <id>https://blog.rin.moe/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Arch Linux WSL2 安裝筆記</title>
+    <link href="https://blog.rin.moe/arch-wsl/"/>
+    <id>https://blog.rin.moe/arch-wsl/</id>
+    <published>2021-06-21T16:27:34.000Z</published>
+    <updated>2021-06-22T08:49:46.912Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
+    
+    
+    <category term="WSL" scheme="https://blog.rin.moe/tags/WSL/"/>
+    
+    <category term="scoop" scheme="https://blog.rin.moe/tags/scoop/"/>
+    
+    <category term="Arch Linux" scheme="https://blog.rin.moe/tags/Arch-Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>2020年終總結</title>
@@ -148,9 +177,9 @@
     <category term="技術貼" scheme="https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/"/>
     
     
-    <category term="Refind" scheme="https://blog.rin.moe/tags/Refind/"/>
-    
     <category term="Arch Linux" scheme="https://blog.rin.moe/tags/Arch-Linux/"/>
+    
+    <category term="Refind" scheme="https://blog.rin.moe/tags/Refind/"/>
     
     <category term="Bootloader" scheme="https://blog.rin.moe/tags/Bootloader/"/>
     
