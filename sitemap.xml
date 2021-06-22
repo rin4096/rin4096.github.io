@@ -74,41 +74,6 @@
 
   
   <url>
-    <loc>https://blog.rin.moe/tags/eGPU/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rin.moe/tags/Thunderbolt/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rin.moe/tags/Refind/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rin.moe/tags/Arch-Linux/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rin.moe/tags/Bootloader/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rin.moe/tags/2020%E5%B9%B4/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -123,7 +88,14 @@
   </url>
   
   <url>
-    <loc>https://blog.rin.moe/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</loc>
+    <loc>https://blog.rin.moe/tags/eGPU/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rin.moe/tags/Thunderbolt/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -144,7 +116,42 @@
   </url>
   
   <url>
+    <loc>https://blog.rin.moe/tags/Arch-Linux/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rin.moe/tags/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rin.moe/tags/Refind/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rin.moe/tags/Bootloader/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rin.moe/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rin.moe/tags/%E6%97%85%E9%81%8A/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -185,24 +192,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.rin.moe/tags/%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/</loc>
+    <loc>https://blog.rin.moe/categories/%E5%90%B9%E6%B0%B4%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.rin.moe/categories/%E5%90%B9%E6%B0%B4%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://blog.rin.moe/categories/%E6%8A%80%E8%A1%93%E8%B2%BC/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

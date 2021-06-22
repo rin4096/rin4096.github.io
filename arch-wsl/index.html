@@ -284,7 +284,7 @@
 <figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">LxRunOffline</span> i -n &lt;您喜歡的系統名&gt; -f &lt;Arch iso位置目錄&gt; -d &lt;安裝系統的位置&gt; -r root.x<span class="hljs-number">86</span>_<span class="hljs-number">64</span><br><span class="hljs-comment">#示例</span><br><span class="hljs-attribute">LxRunOffline</span> i -n ArchLinux -f C:\Users\rin\Downloads\archlinux-bootstrap-<span class="hljs-number">2021</span>.<span class="hljs-number">06</span>.<span class="hljs-number">01</span>-x<span class="hljs-number">86</span>_<span class="hljs-number">64</span>.tar.gz -d C:\ArchLinux -r root.x<span class="hljs-number">86</span>_<span class="hljs-number">64</span><br></code></pre></td></tr></table></figure>
 <p>完成後就系統裝好了</p>
 <p>最後需要將系統設置成wsl2</p>
-<figure class="highlight stata"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs stata">wsl --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">version</span> ArchLinux 2<br># wsl --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">version</span> &lt;您自定義的系統名&gt; 2<br></code></pre></td></tr></table></figure>
+<figure class="highlight stata"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs stata">wsl --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">version</span> ArchLinux 2<br>#wsl --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">version</span> &lt;您自定義的系統名&gt; 2<br></code></pre></td></tr></table></figure>
 <h1 id="配置系統"><a href="#配置系統" class="headerlink" title="配置系統"></a>配置系統</h1><p>先進系統</p>
 <figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs dts">wsl -d <span class="hljs-params">&lt;您自定義的系統名&gt;</span><br><span class="hljs-meta">#如</span><br>wsl -d ArchLinux<br></code></pre></td></tr></table></figure>
 <p>然後刪除/etc/resolv.conf</p>
@@ -335,11 +335,11 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/Arch-Linux/">Arch Linux</a>
-                    
                       <a class="hover-with-bg" href="/tags/WSL/">WSL</a>
                     
                       <a class="hover-with-bg" href="/tags/scoop/">scoop</a>
+                    
+                      <a class="hover-with-bg" href="/tags/Arch-Linux/">Arch Linux</a>
                     
                   </div>
                 
