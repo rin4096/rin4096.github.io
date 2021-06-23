@@ -255,7 +255,7 @@
             
               <p class="note note-info">
                 
-                  This article was updated in：5 hours ago
+                  This article was updated in：a minute ago
                 
               </p>
             
@@ -303,10 +303,10 @@
 <h2 id="設置賬戶"><a href="#設置賬戶" class="headerlink" title="設置賬戶"></a>設置賬戶</h2><p>先給root賬戶設置密碼，在Terminal輸入</p>
 <figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">passwd</span><br></code></pre></td></tr></table></figure>
 <p>然後建立普通賬戶</p>
-<figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs dts">useradd -m -G wheel -s <span class="hljs-meta-keyword">/bin/</span>bash <span class="hljs-params">&lt;用户名&gt;</span><br>passwd <span class="hljs-params">&lt;用户名&gt;</span><br></code></pre></td></tr></table></figure>
-<p>然後将文件<code>/etc/sudoers</code>中的<code>%wheel ALL=(ALL) ALL</code>那一行前面的注释(#)去掉</p>
-<p>查看当前用户id，記下這個id</p>
-<figure class="highlight applescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs applescript"><span class="hljs-built_in">id</span> -u &lt;用户名&gt;<br></code></pre></td></tr></table></figure>
+<figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs dts">useradd -m -G wheel -s <span class="hljs-meta-keyword">/bin/</span>bash <span class="hljs-params">&lt;用戶名&gt;</span><br>passwd <span class="hljs-params">&lt;用戶名&gt;</span><br></code></pre></td></tr></table></figure>
+<p>然後将文件<code>/etc/sudoers</code>中的<code>%wheel ALL=(ALL) ALL</code>那一行前面的注釋(#)去掉</p>
+<p>查看當前用戶id，記下這個id</p>
+<figure class="highlight applescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs applescript"><span class="hljs-built_in">id</span> -u &lt;用戶名&gt;<br></code></pre></td></tr></table></figure>
 <p>然後按exit退出系統，在powershell執行</p>
 <figure class="highlight bnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bnf">lxrunoffline su -n <span class="hljs-attribute">&lt;您的arch名字&gt;</span> -v <span class="hljs-attribute">&lt;用戶id&gt;</span><br></code></pre></td></tr></table></figure>
 <h2 id="對Shell做人性化處理"><a href="#對Shell做人性化處理" class="headerlink" title="對Shell做人性化處理"></a>對Shell做人性化處理</h2><p>前面安裝了zsh，直接安裝oh my zsh。接下來就是一氣呵成配置了。</p>
