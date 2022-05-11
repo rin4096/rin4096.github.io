@@ -47,11 +47,11 @@
     
     <tags>
       
+      <tag>Arch Linux</tag>
+      
       <tag>WSL</tag>
       
       <tag>scoop</tag>
-      
-      <tag>Arch Linux</tag>
       
     </tags>
     
@@ -180,9 +180,9 @@
     
     <tags>
       
-      <tag>Arch Linux</tag>
-      
       <tag>Refind</tag>
+      
+      <tag>Arch Linux</tag>
       
       <tag>Bootloader</tag>
       
